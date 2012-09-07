@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Java/jdk1.6.0_33/jre/lib/tools.jar" sourcepath="D:/Java/jdk1.6.0_33/src.zip"/>
+	<classpathentry kind="lib" path="D:/Java/jdk1.6.0_33/jre/lib/swt.jar" sourcepath="D:/Java/jdk1.6.0_33/jre/lib/swt-4.2-win32-win32-x86/src.zip"/>
+	<classpathentry kind="lib" path="D:/Java/jdk1.6.0_33/jre/lib/javassist.jar" sourcepath="D:/Java/jdk1.6.0_33/jre/lib/javassist-3.12.GA/src"/>
+	<classpathentry kind="lib" path="D:/Java/jdk1.6.0_33/jre/lib/javaws.jar" sourcepath="D:/Java/jdk1.6.0_33/src.zip"/>
+	<classpathentry kind="lib" path="D:/Java/jdk1.6.0_33/jre/lib/xom-1.2.8.jar" sourcepath="D:/Java/jdk1.6.0_33/jre/lib/xom-1.2.8-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
