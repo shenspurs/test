@@ -2,6 +2,7 @@
 package concurrency; /* Added by Eclipse.py */
 // A Runnable containing its own driver Thread.
 
+ 
 public class SelfManaged implements Runnable {
   private int countDown = 5;
   private Thread t = new Thread(this);
